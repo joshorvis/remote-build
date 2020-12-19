@@ -81,6 +81,9 @@
                   "maximumError": "10kb"
                 }
               ]
+            },
+            "remote-build": {
+              "outputPath": "\\\\YOUR-NETWORK-PATH\\remote-build\\dist\\remote-build"
             }
           }
         },
